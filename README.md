@@ -1,6 +1,6 @@
 # Aesthetic Cozy Wallpapers
 
-My collection of high quality cozy wallpapers. I found these wallpapers from [Pinterest](https://pinterest.com) by searching "Desktop Wallpapers" and then resizing and upscaling the images.
+My collection of high quality cozy wallpapers. I found these wallpapers from [Pinterest](https://pinterest.com) by searching "Desktop Wallpapers" and then I resized and upscaled the images.
 
 ### Installation
 
