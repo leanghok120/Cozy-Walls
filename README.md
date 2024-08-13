@@ -4,8 +4,8 @@ My collection of high quality cozy wallpapers. I found these wallpapers from [Pi
 
 ### Installation
 
-- Linux: `git clone git@github.com:leanghok120/Cozy-Walls.git ~/Pictures/`
-- Windows: Idk
+- Linux & MacOS: `git clone git@github.com:leanghok120/Cozy-Walls.git ~/Pictures/`
+- Windows: `git clone https://github.com/leanghok120/Cozy-Walls.git `
 
 ### Previews
 
