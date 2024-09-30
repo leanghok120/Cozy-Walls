@@ -4,16 +4,15 @@ My collection of high quality cozy wallpapers. I found these wallpapers from [Pi
 
 ### Installation
 
-- Linux: `git clone git@github.com:leanghok120/Cozy-Walls.git ~/Pictures/`
+- Linux: `git clone --depth=1 git@github.com:leanghok120/Cozy-Walls.git ~/Pictures/walls`
 - Windows: Idk
 
 ### Previews
 
-![Cozy home](./landscapes/house-green.jpg)
+![Firewatch](./firewatch.jpg)
 
-![Cozy Beach with Mountain behind](./landscapes/cozy-beach-mountain.jpeg)
+![Cat Leaves](./cat_leaves.png)
 
-![Cozy Indoor Garden Dark](./landscapes/green-indoor-garden.jpg)
+![Cozy Indoor Garden Dark](./green-indoor-garden.jpg)
 
-![Flying Thing](./misc/sky-flying-thing.jpeg)
-
+![Flying Thing](./sky-flying-thing.jpeg)
